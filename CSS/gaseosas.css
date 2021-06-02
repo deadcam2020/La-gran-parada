@@ -1,0 +1,178 @@
+.Colombiana_400ml{
+	position:absolute;
+	top:100px;
+	left:100px;
+}
+
+.Manzana_400ml{
+	position:absolute;
+	top:100px;
+	left:600px;
+}
+
+.Uva_400ml{
+	position:absolute;
+	top:100px;
+	left:1100px;
+}
+
+
+.Coca_Cola_400ml{
+	position:absolute;
+	top:600px;
+	left:100px;
+}
+
+
+.Kola_Roman_400ml {
+	position:absolute;
+	top:600px;
+	left:600px;
+}
+
+
+.Quatro_400ml{
+	position:absolute;
+	top:600px;
+	left:1100px;
+}
+
+
+.Sprite_400ml{
+	position:absolute;
+	top:1100px;
+	left:100px;
+}
+
+.Pepsi_400ml{
+	position:absolute;
+	top:1100px;
+	left:600px;
+}
+
+.Coca_Cola_L{
+	position:absolute;
+	top:1100px;
+	left:1100px;
+}
+
+.Pepse_L{
+	position:absolute;
+	top:1600px;
+	left:100px;
+}
+
+
+.Manzana_L{
+	position:absolute;
+	top:1600px;
+	left:600px;
+}
+
+.Colombiana_L{
+	position:absolute;
+
+	top:1600px;
+	left:1100px;
+	
+}
+
+.Kola_Roman_L{
+	position:absolute;
+
+	top:2100px;
+	left:100px;
+}
+	
+.Bolsa_de_Agua_6L{
+	position:absolute;
+
+	top:2100px;
+	left:600px;
+}
+	
+.Gatorade_500ml{
+	position:absolute;
+
+	top:2100px;
+	left:1100px;
+}
+
+.Sporade_470ml{
+	position:absolute;
+
+	top:2600px;
+	left:100px;
+}
+
+.Bretaña_500ml{
+	position:absolute;
+
+	top:2600px;
+	left:600px;
+}
+
+.Agua_Limon{
+	position:absolute;
+
+	top:2600px;
+	left:1100px;
+}
+
+.Agua_con_gas{
+	position:absolute;
+
+	top:3100px;
+	left:100px;
+}
+
+.Agua_1L{
+	position:absolute;
+
+	top:3100px;
+	left:600px;
+}
+
+.Speed_Max{
+	position:absolute;
+
+	top:3100px;
+	left:1100px;
+}
+
+.Poni_Mini{
+	position:absolute;
+
+	top:3600px;
+	left:100px;
+}
+
+.Poni_1L{
+	position:absolute;
+
+	top:3600px;
+	left:600px;
+}
+
+
+.Malta_Leona{
+	position:absolute;
+
+	top:3600px;
+	left:1100px;
+}
+
+.pie{
+	position:absolute;
+
+	top:4000px;
+	left:630px;
+	
+}
+
+
+.cabecera{
+	background-color:#232f3e;
+	text-align:center;
+	color:#ffffff;
+}

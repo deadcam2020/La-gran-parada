@@ -1,0 +1,24 @@
+.productos_principal {
+  float: left;
+  background: white;
+  margin-left: 15px;
+  width: 425px;
+  max-width: 450px;
+  margin-bottom: 50px;
+}
+
+.productos_principal h3 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 27px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.productos_principal ul li a img {
+  align-items: center;
+  width: 175px;
+  display: inline;
+  margin-left: 15px;
+  background: white;
+}

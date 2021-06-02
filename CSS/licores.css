@@ -1,0 +1,264 @@
+.Garra_caldas{
+	position:absolute;
+	top:100px;
+	left:100px;
+}
+
+.Ron_Caldas{
+	position:absolute;
+	top:100px;
+	left:600px;
+}
+
+.Garra_Mede{
+	position:absolute;
+	top:100px;
+	left:1100px;
+}
+
+
+.Ron_Mede{
+	position:absolute;
+	top:600px;
+	left:100px;
+}
+
+
+.Tetra_mede{
+	position:absolute;
+	top:600px;
+	left:600px;
+}
+
+
+.Panchita_mede{
+	position:absolute;
+	top:600px;
+	left:1100px;
+}
+
+
+.Ron_Mede_8{
+	position:absolute;
+	top:1100px;
+	left:100px;
+}
+
+.Garra_aguar{
+	position:absolute;
+	top:1100px;
+	left:600px;
+}
+
+.Pipona_Aguar{
+	position:absolute;
+	top:1100px;
+	left:1100px;
+}
+
+.Panchita_Aguar{
+	position:absolute;
+	top:1600px;
+	left:100px;
+}
+
+
+.tetra_aguar{
+	position:absolute;
+	top:1600px;
+	left:600px;
+}
+
+.Sello_rojo{
+	position:absolute;
+	top:1600px;
+	left:1100px;
+	
+}
+
+.something_special{
+	position:absolute;
+	top:2100px;
+	left:100px;
+}
+	
+.Smirnoff_vodka{
+	position:absolute;
+
+	top:2100px;
+	left:600px;
+}
+	
+.Saint_si{
+	position:absolute;
+
+	top:2100px;
+	left:1100px;
+}
+
+.Buchanans{
+	position:absolute;
+
+	top:2600px;
+	left:100px;
+}
+
+.Buchanans_master{
+	position:absolute;
+
+	top:2600px;
+	left:600px;
+}
+
+.Old_parr{
+	position:absolute;
+
+	top:2600px;
+	left:1100px;
+}
+
+.Passport_whisky{
+	position:absolute;
+
+	top:3100px;
+	left:100px;
+}
+
+.Black_and{
+	position:absolute;
+
+	top:3100px;
+	left:600px;
+}
+
+.Aguila_lata{
+	position:absolute;
+
+	top:3100px;
+	left:1100px;
+}
+
+.Aguila_330{
+	position:absolute;
+
+	top:3600px;
+	left:100px;
+}
+
+.Aguila_light_330{
+	position:absolute;
+
+	top:3600px;
+	left:600px;
+}
+
+
+.Aguilita_light{
+	position:absolute;
+
+	top:3600px;
+	left:1100px;
+}
+
+
+.Andina{
+	position:absolute;
+
+	top:4100px;
+	left:100px;
+}
+
+
+.Budweiser_lata{
+	position:absolute;
+
+	top:4100px;
+	left:600px;
+}
+
+
+.Club_colo{
+	position:absolute;
+
+	top:4100px;
+	left:1100px;
+}
+
+
+.Costeñita{
+	position:absolute;
+
+	top:4600px;
+	left:100px;
+}
+
+
+.Coronita{
+	position:absolute;
+
+	top:4600px;
+	left:600px;
+}
+
+
+.Heineken_lata{
+	position:absolute;
+
+	top:4600px;
+	left:1100px;
+}
+
+
+.Smirnoff_ice{
+	position:absolute;
+
+	top:5100px;
+	left:100px;
+}
+
+
+.Poker_330{
+	position:absolute;
+
+	top:5100px;
+	left:600px;
+}
+
+
+.Aguila_Light_750{
+	position:absolute;
+
+	top:5100px;
+	left:1100px;
+}
+
+
+.Aguila_1L{
+	position:absolute;
+
+	top:5600px;
+	left:100px;
+}
+
+
+.Poker_1L{
+	position:absolute;
+
+	top:5600px;
+	left:1100px;
+}
+
+.pie{
+	position:absolute;
+
+	top:6000px;
+	left:630px;
+	
+}
+
+
+.cabecera{
+	background-color:#232f3e;
+	text-align:center;
+	color:#ffffff;
+}

@@ -1,0 +1,29 @@
+.nosotros {
+	
+	background-color:#232f3e;
+}
+.contenedor {
+  ...
+  position: relative;
+
+}
+
+.hijo {
+  width: 350px;
+  height: 50px;
+ 
+  /* centrar vertical y horizontalmente */
+  position: absolute;
+  top: 40%;
+  left: 40%;
+ 
+  font-family: Arial, sans-serif;
+  margin: -25px 0 0 -25px; /* aplicar a top y al margen izquierdo un valor negativo para completar el centrado del elemento hijo */
+}
+
+.pie {
+	  position: absolute;
+  bottom: 0;
+  width: 100%;
+ 
+}

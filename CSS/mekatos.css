@@ -1,0 +1,90 @@
+
+
+.yupi{
+	position:absolute;
+	top:100px;
+	left:100px;
+}
+
+.rizadas{
+	position:absolute;
+	top:100px;
+	left:600px;
+}
+
+.tocinetas{
+	position:absolute;
+	top:100px;
+	left:1050px;
+}
+
+
+.yupi_cheese{
+	position:absolute;
+	top:450px;
+	left:100px;
+}
+
+
+.golpe{
+	position:absolute;
+	top:450px;
+	left:600px;
+}
+
+
+.golpe_250gr{
+	position:absolute;
+	top:450px;
+	left:1050px;
+}
+
+
+.tosti_nachos{
+	position:absolute;
+	top:800px;
+	left:100px;
+}
+
+.tosti_empanada{
+	position:absolute;
+	top:800px;
+	left:600px;
+}
+
+.bom{
+	position:absolute;
+	top:800px;
+	left:1050px;
+}
+
+.jet{
+	position:absolute;
+	top:1200px;
+	left:100px;
+}
+
+
+.mani{
+	position:absolute;
+	top:1200px;
+	left:600px;
+}
+
+.pie{
+	position:absolute;
+
+	top:1650px;
+	left:630px;
+	
+}
+
+.cabecera{
+	background-color:#232f3e;
+	text-align:center;
+	color:#ffffff;
+}
+
+.cuerpo{
+  font-family: Arial, sans-serif;
+}
